@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'stocks'
+
+stocks = Stocks::Stocks.new()
+stocks.run
